@@ -1,5 +1,5 @@
 <p align="center">
-  <!-- মানিক মিয়ার স্টাইলের ডার্ক পার্পল প্রিমিয়াম ব্যানার -->
+  <!--  স্টাইলের ডার্ক পার্পল প্রিমিয়াম ব্যানার -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7057ff&height=220&section=header&text=Shrabon%20Wahid%20Ratul&fontSize=45&desc=Lead%20Android%20Developer&descSize=20&descAlignY=62&fontColor=ffffff" alt="Ratul's Banner" />
 </p>
 
@@ -21,8 +21,8 @@
   <a href="https://linkedin.com/in/ratulsky740" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-RATULSKY740-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://facebook.com/ratulsky740" target="_blank">
-    <img src="https://img.shields.io/badge/FACEBOOK-RATULSKY740-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  <a href="https://www.facebook.com/profile.php?id=61566201714761" target="_blank">
+    <img src="https://img.shields.io/badge/FACEBOOK-RatulWahid-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
 
