@@ -76,10 +76,11 @@ Enthusiastic and motivated developer passionate about creating creative and high
 
 ---
 
+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ratulwahid&show_icons=true&theme=radial&rank_icon=github" alt="Ratul's GitHub Stats" />
+  <img src="https://github-readme-stats-six-alpha.vercel.app/api?username=ratulwahid&show_icons=true&theme=radial&rank_icon=github" alt="Ratul's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratulwahid&layout=compact&theme=radial" alt="Top Languages" />
+  <img src="https://github-readme-stats-six-alpha.vercel.app/api/top-langs/?username=ratulwahid&layout=compact&theme=radial" alt="Top Languages" />
 </p>
