@@ -76,21 +76,19 @@ Enthusiastic and motivated developer passionate about creating creative and high
 
 ---
 
-### 📈 GitHub Activity Summary
+---
 
-<p align="center">
-  <!-- এটি সম্পূর্ণ অফিশিয়াল এবং ডাইরেক্ট গিটহাব গ্রাফ, যা কখনো ডাউন হবে না -->
-  <img src="https://activity-graph.davidtwco.me/graph?username=ratulwahid&theme=dracula&area=true&hide_border=true" width="100%" alt="Ratul's Activity Graph" />
-</p>
+### 💻 GitHub Repository Overview
 
-<p align="center">
-  <!-- তোমার প্রোফাইলের মূল ল্যাঙ্গুয়েজ পারসেন্টেজ লাইভ দেখানোর জন্য -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratulwahid&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
-</p>
+| Project Name | Primary Stack | Core Focus | Status |
+| :--- | :--- | :--- | :--- |
+| **DailyDrop BD** | Java, Firebase, Android SDK | On-demand Logistics Architecture | 🚀 Active |
+| **Pomodoro App** | Java, Android SDK, AudioAttributes | Performance & Background Optimization | 🛠️ Maintained |
+| **Banking System** | Java, OOP Principles | Secure Financial Logic & Scalability | ✅ Completed |
 
 ---
 
-### 🤝 Contribution Rules I Follow
-* 💻 Writing clean and reusable Java code daily.
-* 🚀 Pushing updates consistently to **DailyDrop BD** and other personal apps.
-* 🐛 Debugging with patience and improving UI/UX continuously.
+### 🎯 Core Commitments & Focus
+* ⚡ **Daily Commits:** Making it a habit to push clean Java code regularly.
+* 🏗️ **Clean Code Architecture:** Emphasizing Object-Oriented Programming (OOP) for robust software development.
+* 🎨 **UI/UX Obsession:** Fixing component glitches and ensuring smooth transitions for final users.
