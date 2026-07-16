@@ -58,7 +58,7 @@ Enthusiastic and motivated developer passionate about creating creative and high
 
 ### 📱 Featured Projects
 
-#### ⚡ **[DailyDrop BD](https://github.com/ratulwahid/DailyDrop-BD)** (July 2026 - Present)
+#### ⚡ **[DailyDrop BD](https://github.com/ratulwahid/DailyDrop-b)** (July 2026 - Present)
 *An on-demand delivery application developed for student messes and apartments.*
 - Core Java architecture dynamically rendering real-time inventory forms from **Firebase Firestore**.
 - Advanced UI features using `RecyclerView` and `ItemTouchHelper` for seamless drag-and-drop inventory management.
