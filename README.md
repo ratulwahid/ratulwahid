@@ -64,7 +64,7 @@ Enthusiastic and motivated developer passionate about creating creative and high
 - Advanced UI features using `RecyclerView` and `ItemTouchHelper` for seamless drag-and-drop inventory management.
 - Scaled to serve 10+ mess communities and 80-100 daily active users.
 
-#### 🍅 **[Pomodoro App](https://github.com/ratulwahid/Pomodoro-Productivity-App)**
+#### 🍅 **[Pomodoro App](https://github.com/ratulwahid/PromodoroApp)**
 *A minimalist productivity app featuring custom session states and dynamic UI switching.*
 - Built using **Java, Android SDK, and XML**.
 - Optimized background alarms using the `AudioAttributes API` to successfully bypass strict OEM battery savers (e.g., Xiaomi).
