@@ -76,11 +76,21 @@ Enthusiastic and motivated developer passionate about creating creative and high
 
 ---
 
-
-### 📊 GitHub Stats
+### 📈 GitHub Activity Summary
 
 <p align="center">
-  <img src="https://github-readme-stats-six-alpha.vercel.app/api?username=ratulwahid&show_icons=true&theme=radial&rank_icon=github" alt="Ratul's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats-six-alpha.vercel.app/api/top-langs/?username=ratulwahid&layout=compact&theme=radial" alt="Top Languages" />
+  <!-- এটি সম্পূর্ণ অফিশিয়াল এবং ডাইরেক্ট গিটহাব গ্রাফ, যা কখনো ডাউন হবে না -->
+  <img src="https://activity-graph.davidtwco.me/graph?username=ratulwahid&theme=dracula&area=true&hide_border=true" width="100%" alt="Ratul's Activity Graph" />
 </p>
+
+<p align="center">
+  <!-- তোমার প্রোফাইলের মূল ল্যাঙ্গুয়েজ পারসেন্টেজ লাইভ দেখানোর জন্য -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratulwahid&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 🤝 Contribution Rules I Follow
+* 💻 Writing clean and reusable Java code daily.
+* 🚀 Pushing updates consistently to **DailyDrop BD** and other personal apps.
+* 🐛 Debugging with patience and improving UI/UX continuously.
