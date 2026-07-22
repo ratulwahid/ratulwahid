@@ -85,6 +85,7 @@ Enthusiastic and motivated developer passionate about creating creative and high
 | **DailyDrop BD** | Java, Firebase, Android SDK | On-demand Logistics Architecture | 🚀 Active |
 | **Pomodoro App** | Java, Android SDK, AudioAttributes | Performance & Background Optimization | 🛠️ Maintained |
 | **Banking System** | Java, OOP Principles | Secure Financial Logic & Scalability | ✅ Completed |
+| **TorchPrank** | Java, Firebase, Android SDK | A fun project to surprise friends | ✅ Completed |
 
 ---
 
